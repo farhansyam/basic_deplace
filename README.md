@@ -2,5 +2,6 @@
 
 A Flutter project display detail place.
 
-![image.png]( {https://github.com/farhansyam/basic_deplace/blob/3b7741975e7b10c49fec98fa8e9873379b743753/dok/ss.png} )
+![ss](https://github.com/farhansyam/basic_deplace/assets/31535717/ee8c8dbc-9b4f-4f25-ae43-2d112840dd4b)
+
 
